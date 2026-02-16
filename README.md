@@ -68,11 +68,3 @@ Simulates rolling two dice and displays the result.
 
 ### 7. Sing A Song
 A simple script that prints song lyrics or playful text output.
-
----
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/soniya-builds/Python-Mini-Projects.git
